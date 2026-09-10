@@ -107,7 +107,18 @@ Only a few variables are used regardless of the input size.
 
 Space Complexity: O(1)
 -------------------------------------------------------------------------------------------
+Example 2: Linear Space – O(n)
 
+arr = [1, 2, 3, 4]
+
+copy = []
+
+for num in arr:
+    copy.append(num)
+
+A new list of size n is created.
+
+Space Complexity: O(n)
 
 
 
