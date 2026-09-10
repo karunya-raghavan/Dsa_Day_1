@@ -120,7 +120,11 @@ A new list of size n is created.
 
 Space Complexity: O(n)
 ------------------------------------------------------------------------------------------
+Key Difference
+Time Complexity = How long the algorithm takes to run as the input grows.
+Space Complexity = How much additional memory the algorithm uses as the input grows.
 
+A good algorithm aims to use less time and less memory, though sometimes improving one requires using more of the other. This trade-off is a common consideration when designing efficient algorithms.
 
 
 
