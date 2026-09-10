@@ -12,7 +12,7 @@ print(arr[2])
 No matter how large the array is, accessing an element by index takes the same amount of work.
 
 Time Complexity: O(1)
-
+-----------------------------------------------------------------------------------------------
 Example 2: Linear Time – O(n)
 
 arr = [10, 20, 30, 40]
@@ -23,3 +23,16 @@ for num in arr:
 If there are n elements, the loop runs n times.
 
 Time Complexity: O(n)
+-----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
