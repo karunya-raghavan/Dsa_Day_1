@@ -61,6 +61,13 @@ for i in range(n):
 Loop runs n times.
 
 Example: Finding the maximum element in an array.
+--------------------------------------------------------------------------------------------
+O(n log n) — Linearithmic
+# Example: Merge Sort
+
+The data is repeatedly divided, and each level processes n elements.
+
+Example: Merge Sort, Heap Sort.
 
 
 
