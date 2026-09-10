@@ -46,7 +46,13 @@ Only one operation, regardless of n.
 
 Example: Accessing an array element.
 -----------------------------------------------------------------------------------------------
+O(log n) — Logarithmic
+while n > 1:
+    n = n // 2
 
+The input is divided by 2 each time.
+
+Example: Binary Search.
 
 
 
