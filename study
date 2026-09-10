@@ -80,7 +80,32 @@ Inner loop → n times
 Total → n × n = n²
 
 Example: Bubble Sort.
+-----------------------------------------------------------------------------------------
+O(2ⁿ) — Exponential
+def fibonacci(n):
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
 
+The number of calls grows very rapidly.
+
+Example: Naive recursive Fibonacci.
+-----------------------------------------------------------------------------------------
+2. Space Complexity:
+--------------------
+
+Space complexity describes how much extra memory an algorithm uses as the input size grows.
+
+It includes variables, temporary arrays, recursion stack, and other additional storage.
+
+Example 1: Constant Space – O(1)
+
+def sum_numbers(a, b):
+    return a + b
+
+Only a few variables are used regardless of the input size.
+
+Space Complexity: O(1)
 
 
 
