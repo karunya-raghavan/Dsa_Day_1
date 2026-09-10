@@ -106,6 +106,7 @@ def sum_numbers(a, b):
 Only a few variables are used regardless of the input size.
 
 Space Complexity: O(1)
+-------------------------------------------------------------------------------------------
 
 
 
