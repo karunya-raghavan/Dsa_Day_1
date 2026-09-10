@@ -1,1 +1,14 @@
+Time Complexity
 
+Time complexity describes how the running time of an algorithm grows as the input size (n) increases.
+
+It does not measure the actual time in seconds. Instead, it measures the number of basic operations an algorithm performs.
+
+Example 1: Constant Time – O(1)
+
+arr = [10, 20, 30, 40]
+print(arr[2])
+
+No matter how large the array is, accessing an element by index takes the same amount of work.
+
+Time Complexity: O(1)
