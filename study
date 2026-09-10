@@ -1,4 +1,5 @@
-Time Complexity
+Time Complexity:
+----------------
 
 Time complexity describes how the running time of an algorithm grows as the input size (n) increases.
 
@@ -37,7 +38,35 @@ Each element is paired with every other element.
 For n elements, operations = n × n.
 
 Time Complexity: O(n²)
-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+O(1) — Constant
+print(arr[0])
+
+Only one operation, regardless of n.
+
+Example: Accessing an array element.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
