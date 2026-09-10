@@ -37,7 +37,7 @@ Each element is paired with every other element.
 For n elements, operations = n × n.
 
 Time Complexity: O(n²)
-
+----------------------------------------------------------------------------------------------
 
 
 
