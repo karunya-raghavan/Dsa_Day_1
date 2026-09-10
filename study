@@ -53,7 +53,14 @@ while n > 1:
 The input is divided by 2 each time.
 
 Example: Binary Search.
+-----------------------------------------------------------------------------------------------
+O(n) — Linear
+for i in range(n):
+    print(i)
 
+Loop runs n times.
+
+Example: Finding the maximum element in an array.
 
 
 
