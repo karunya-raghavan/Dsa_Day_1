@@ -24,7 +24,19 @@ If there are n elements, the loop runs n times.
 
 Time Complexity: O(n)
 -----------------------------------------------------------------------------------------------
+Example 3: Quadratic Time – O(n²)
 
+arr = [1, 2, 3]
+
+for i in arr:
+    for j in arr:
+        print(i, j)
+
+Each element is paired with every other element.
+
+For n elements, operations = n × n.
+
+Time Complexity: O(n²)
 
 
 
