@@ -68,7 +68,18 @@ O(n log n) — Linearithmic
 The data is repeatedly divided, and each level processes n elements.
 
 Example: Merge Sort, Heap Sort.
+-------------------------------------------------------------------------------------------
+-O(n²) — Quadratic
+for i in range(n):
+    for j in range(n):
+        print(i, j)
 
+Outer loop → n times
+Inner loop → n times
+
+Total → n × n = n²
+
+Example: Bubble Sort.
 
 
 
